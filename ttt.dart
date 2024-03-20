@@ -1,2 +1,1 @@
-hello
-hi ajay
+void maint() {}
